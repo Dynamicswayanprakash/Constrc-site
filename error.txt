@@ -1,9 +1,0 @@
-.about-one_pattern-layer {
-    position: absolute;
-    left: 0px;
-    top: 0px;
-    right: 0px;
-    height: 70px;
-    background-repeat: repeat-x;
-    animation: slideBackground 10s linear infinite;
-}
