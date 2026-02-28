@@ -451,10 +451,9 @@ h1.slider-heading {
   text-decoration: none;
 }
 
-i.fa-arrow-right {
-  margin-left: 100px;
+#arrow-social {
+    margin-left: 100px;
 }
-
 .image {
   margin-right: 216px;
   height: 60px;
@@ -1651,7 +1650,7 @@ h1.slider-heading {
 }
 
 .service-btn {
-  margin-right: 25px;
+  margin-right: 75px;
   margin-top: 25px;
   color: black;
   text-decoration: none;
@@ -1710,17 +1709,17 @@ li.list-image2 {
 
 li.list-image3 {
   margin-left: 0px;
-  margin-top: 31px;
+  margin-top: 20px;
 }
 
 .list-image4 {
   margin-left: -4px;
-  margin-top: 31px;
+  margin-top: 21px;
 }
 
 .reviews-slider {
   width: 119px;
-  margin-top: -91px;
+  margin-top: -105px;
   margin-left: 205px;
   color: #ff7a00;
   font-size: xx-large;
@@ -2005,12 +2004,12 @@ i.fa-arrow-right {
 
 .lower-list3 {
   margin-left: 0px;
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 .lower-list4 {
-  margin-right: 0px;
-  margin-top: 40px;
+  margin-left: 0px;
+  margin-top: 20px;
 }
 
 .trust-div {
@@ -2184,25 +2183,25 @@ i.fa-arrow-right {
 
 /* Circle */
 .arrow-circle {
-    width: 80px;
-    height: 80px;
-    background-color: #f57c00;
-    border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  background-color: #f57c00;
+  border-radius: 50%;
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
-    font-size: 32px;
-    font-weight: bold;
-    color: black;
-    cursor: pointer;
-    transition: 0.3s ease;
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+  cursor: pointer;
+  transition: 0.3s ease;
 }
 
 /* Hover Effect */
 .arrow-circle:hover {
-    transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 .client-box-slider {
